@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="koobecaf:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="koobecaf.war">
+      <element id="artifact" artifact-name="koobecaf:war exploded" />
+    </root>
+  </artifact>
+</component>
